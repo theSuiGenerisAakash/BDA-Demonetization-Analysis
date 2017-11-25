@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1510840634479.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1465862148",
+    "id" : "EFE89631",
+    "lastKnownWriteTime" : 1510845478,
+    "last_content_update" : 1510845478253,
+    "path" : "E:/RStudio/workspace/BDA_Assignment_DemonetizationAnalysis/TweetCountVsTime/tweetsvshour.R",
+    "project_path" : "tweetsvshour.R",
+    "properties" : {
+        "cursorPosition" : "66,8",
+        "scrollLine" : "65",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,7 @@
+library("ROAuth")
+library("twitteR")
+library("tm")
+library("wordcloud")
+library("RColorBrewer")
+library("stringr") #For emojis and non-Unicodes, tweets.text<-str_replace_all(tweets.text,"[^[:graph:]]", "")
+setup_twitter_oauth(cred$consumerKey,cred$consumerSecret,cred$oauthKey,cred$oauthSecret)

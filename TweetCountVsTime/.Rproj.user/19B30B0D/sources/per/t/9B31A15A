@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1510828311473.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9B31A15A",
+    "lastKnownWriteTime" : 7226435094589303907,
+    "last_content_update" : 1510828311473,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "301B52A1",
+        "caption" : "df.popularity",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=df.popularity&cache_key=301B52A1",
+        "displayedObservations" : 1500,
+        "environment" : "",
+        "object" : "df.popularity",
+        "preview" : 0,
+        "totalObservations" : 1500,
+        "variables" : 2
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

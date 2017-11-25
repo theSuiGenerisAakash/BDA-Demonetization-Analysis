@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1510827722830.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1787923966",
+    "id" : "C49031C5",
+    "lastKnownWriteTime" : 1511494736,
+    "last_content_update" : 1511494736325,
+    "path" : "E:/RStudio/workspace/BDA_Assignment_DemonetizationAnalysis/WordCloudTwitter/wordcloudtwitter.R",
+    "project_path" : "wordcloudtwitter.R",
+    "properties" : {
+        "cursorPosition" : "6,23",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

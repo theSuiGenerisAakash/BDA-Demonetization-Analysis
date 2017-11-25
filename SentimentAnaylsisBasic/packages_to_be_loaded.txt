@@ -1,0 +1,7 @@
+library("ROAuth")
+library("twitteR")
+library("ggplot2")
+library("plyr")
+library("dplyr")
+library("stringr")
+setup_twitter_oauth(cred$consumerKey,cred$consumerSecret,cred$oauthKey,cred$oauthSecret)
